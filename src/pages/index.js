@@ -9,7 +9,7 @@ import pic3 from '../assets/images/TedashiTrainedImage.png';
 import pic4 from '../assets/images/PPC-front.jpg';
 import pic5 from '../assets/images/socketServer.jpg';
 import pic6 from '../assets/images/expressServer.jpg';
-import pic7 from '../assets/images/pic07.jpg';
+import pic7 from '../assets/images/blackjackAPI.jpg';
 import pic8 from '../assets/images/pic08.jpg';
 import Scroll from '../components/Scroll';
 
@@ -85,29 +85,29 @@ const IndexPage = () => (
                 </header>
               </article>
               <article className="item">
-                <a href="/#" className="image fit">
+                <a href="https://github.com/parent-pickup-coordinator/socket.io-server" className="image fit">
                   <img src={pic5} alt="" />
                 </a>
                 <header>
-                  <h3>Natoque Vitae</h3>
+                  <h3>Parent Pickup Coordinator: socket.io server</h3>
                 </header>
               </article>
             </div>
             <div className="col-4 col-12-mobile">
               <article className="item">
-                <a href="/#" className="image fit">
+                <a href="https://github.com/parent-pickup-coordinator/express-server" className="image fit">
                   <img src={pic6} alt="" />
                 </a>
                 <header>
-                  <h3>Dolor Penatibus</h3>
+                  <h3>Parent Pickup Coordinator: express server</h3>
                 </header>
               </article>
               <article className="item">
-                <a href="/#" className="image fit">
+                <a href="https://github.com/tinamyers-401-advanced-javascript/blackjack" className="image fit">
                   <img src={pic7} alt="" />
                 </a>
                 <header>
-                  <h3>Orci Convallis</h3>
+                  <h3>BlackJack API</h3>
                 </header>
               </article>
             </div>
@@ -121,12 +121,12 @@ const IndexPage = () => (
             <h2>About Me</h2>
           </header>
 
-          <a href="/#" className="image featured">
+          {/* <a href="/#" className="image featured">
             <img src={pic8} alt="" />
-          </a>
+          </a> */}
 
           <p>
-          Software Developer, puzzle lover, outdoor enthusiast, hiker, and lover of helping people. Ultimately, helping people is what drives me forward, from previously working with the elderly in Physical Therapy, to my projects (below), I love helping people and am excited to work for a company that gives back to the community!
+            Software Developer, puzzle lover, outdoor enthusiast, hiker, and lover of helping people. Ultimately, helping people is what drives me forward, from previously working with the elderly in Physical Therapy, to my projects (below), I love helping people and am excited to work for a company that gives back to the community!
           </p>
         </div>
       </section>
@@ -141,15 +141,15 @@ const IndexPage = () => (
             I'd love to connect with you! Get in touch with me via these links:
           </p>
           <div>
-          <a href="https://github.com/myerstina515">Tina Myers on GitHub</a>
+            <a href="https://github.com/myerstina515">Tina Myers on GitHub</a>
           </div>
           <div>
-          <a href="https://linkedin.com/in/tinalmyers">Tina Myers on LinkedIn</a>
+            <a href="https://linkedin.com/in/tinalmyers">Tina Myers on LinkedIn</a>
           </div>
           <div>
-          <a href="mailto:myers.tina515@gmail.com">Email Tina Myers</a>
+            <a href="mailto:myers.tina515@gmail.com">Email Tina Myers</a>
           </div>
-          
+
         </div>
       </section>
     </div>
