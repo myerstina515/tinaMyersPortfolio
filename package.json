@@ -1,10 +1,10 @@
 {
-  "name": "gatsby-starter-prologue",
+  "name": "tina-myers-portfolio",
   "version": "0.0.1",
   "description": "Gatsby.js V2 starter template based on Prologue by HTML5 UP",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/anubhavsrivastava/gatsby-starter-prologue.git"
+    "url": "git+https://github.com/myerstina515/portfolio.git"
   },
   "author": {
     "name": "Anubhav Srivastava",
@@ -44,7 +44,7 @@
   ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/anubhavsrivastava/gatsby-starter-prologue/issues"
+    "url": "https://github.com/myerstina515/portfolio/issues"
   },
-  "homepage": "https://github.com/anubhavsrivastava/gatsby-starter-prologue#readme"
+  "homepage": "myerstina515/portfolio#readme"
 }

@@ -4,11 +4,11 @@ import Layout from '../components/Layout';
 import PageFooter from '../components/PageFooter';
 import SideBar from '../components/SideBar';
 
-import pic2 from '../assets/images/pic02.jpg';
-import pic3 from '../assets/images/pic03.jpg';
-import pic4 from '../assets/images/pic04.jpg';
-import pic5 from '../assets/images/pic05.jpg';
-import pic6 from '../assets/images/pic06.jpg';
+import pic2 from '../assets/images/grangerDanger.jpg';
+import pic3 from '../assets/images/TedashiTrainedImage.png';
+import pic4 from '../assets/images/PPC-front.jpg';
+import pic5 from '../assets/images/socketServer.jpg';
+import pic6 from '../assets/images/expressServer.jpg';
 import pic7 from '../assets/images/pic07.jpg';
 import pic8 from '../assets/images/pic08.jpg';
 import Scroll from '../components/Scroll';
@@ -29,11 +29,11 @@ const IndexPage = () => (
         <div className="container">
           <header>
             <h2 className="alt">
-              Hi! I'm <strong>Anubhav</strong>
+              Hi! I'm <strong>Tina Myers</strong>
               <br />
-              Web developer
+              Full-stack Software Developer
             </h2>
-            <p>I have made few things check it out.</p>
+            <p>JavaScript is my primary language, but I love learning!</p><p>Take a look at my JavaScript projects, as well as others</p>
           </header>
 
           <footer>
@@ -53,38 +53,35 @@ const IndexPage = () => (
           </header>
 
           <p>
-            Life will feel it is always a great need for eu valley, the valley
-            CNN ridiculous smile at any time chat mainstream clinical homes.
-            Mauris floor was very warm and we need it. One customer now nibh
-            Bureau dark pools behavior.
+            My projects give a little insight into who I am: problem solver, web developer, fitness enthusiast, history working in casino gaming, and excited by many nerd-doms!
           </p>
 
           <div className="row">
             <div className="col-4 col-12-mobile">
               <article className="item">
-                <a href="/#" className="image fit">
+                <a href="https://github.com/Granger-Danger2021/trivia" className="image fit">
                   <img src={pic2} alt="" />
                 </a>
                 <header>
-                  <h3>Ipsum Feugiat</h3>
+                  <h3>Granger Danger Trivia Game</h3>
                 </header>
               </article>
               <article className="item">
-                <a href="/#" className="image fit">
+                <a href="https://github.com/myerstina515/tedashitrained" className="image fit">
                   <img src={pic3} alt="" />
                 </a>
                 <header>
-                  <h3>Rhoncus Semper</h3>
+                  <h3>Tedashi Trained React Front-end</h3>
                 </header>
               </article>
             </div>
             <div className="col-4 col-12-mobile">
               <article className="item">
-                <a href="/#" className="image fit">
+                <a href="https://github.com/parent-pickup-coordinator/react-frontend" className="image fit">
                   <img src={pic4} alt="" />
                 </a>
                 <header>
-                  <h3>Magna Nullam</h3>
+                  <h3>Parent Pickup Coordinator: React-front end</h3>
                 </header>
               </article>
               <article className="item">
@@ -129,13 +126,7 @@ const IndexPage = () => (
           </a>
 
           <p>
-            Developers football competition in diameter big price to layer the
-            pot. Chavez ultricies care who wants to CNN. Lobortis elementum
-            aliquet eget a den of which they do not hold it in hatred developers
-            nor the mountains of the deposit slip. The element of time, sem ante
-            ullamcorper dolor nulla quam placerat viverra environment is not
-            with our customers. Free makeup and skirt until the mouse or
-            partners or to decorate each targeted.
+          Software Developer, puzzle lover, outdoor enthusiast, hiker, and lover of helping people. Ultimately, helping people is what drives me forward, from previously working with the elderly in Physical Therapy, to my projects (below), I love helping people and am excited to work for a company that gives back to the community!
           </p>
         </div>
       </section>
@@ -147,29 +138,18 @@ const IndexPage = () => (
           </header>
 
           <p>
-            The element of time, sem ante ullamcorper dolor nulla quam placerat
-            viverra environment is not with our customers. Free makeup and skirt
-            until the mouse. Japan this innovative and ultricies carton salad
-            clinical ridiculous now passes from enhanced. Mauris pot innovative
-            care for my pain.
+            I'd love to connect with you! Get in touch with me via these links:
           </p>
-
-          <form method="post" action="#">
-            <div className="row">
-              <div className="col-6 col-12-mobile">
-                <input type="text" name="name" placeholder="Name" />
-              </div>
-              <div className="col-6 col-12-mobile">
-                <input type="text" name="email" placeholder="Email" />
-              </div>
-              <div className="col-12">
-                <textarea name="message" placeholder="Message" />
-              </div>
-              <div className="col-12">
-                <input type="submit" value="Send Message" />
-              </div>
-            </div>
-          </form>
+          <div>
+          <a href="https://github.com/myerstina515">Tina Myers on GitHub</a>
+          </div>
+          <div>
+          <a href="https://linkedin.com/in/tinalmyers">Tina Myers on LinkedIn</a>
+          </div>
+          <div>
+          <a href="mailto:myers.tina515@gmail.com">Email Tina Myers</a>
+          </div>
+          
         </div>
       </section>
     </div>
