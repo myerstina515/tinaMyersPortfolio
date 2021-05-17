@@ -9,7 +9,7 @@ import pic3 from '../assets/images/TedashiTrainedImage.png';
 import pic4 from '../assets/images/PPC-front.jpg';
 import pic5 from '../assets/images/socketServer.jpg';
 import pic6 from '../assets/images/expressServer.jpg';
-import pic7 from '../assets/images/blackjackAPI.jpg';
+import pic7 from '../assets/images/shoppies.jpg';
 import pic8 from '../assets/images/pic08.jpg';
 import Scroll from '../components/Scroll';
 
@@ -103,11 +103,11 @@ const IndexPage = () => (
                 </header>
               </article>
               <article className="item">
-                <a href="https://github.com/tinamyers-401-advanced-javascript/blackjack" className="image fit">
+                <a href="https://github.com/myerstina515/shoppies" className="image fit">
                   <img src={pic7} alt="" />
                 </a>
                 <header>
-                  <h3>BlackJack API</h3>
+                  <h3>The Shoppie Awards</h3>
                 </header>
               </article>
             </div>
